@@ -30,3 +30,5 @@ Create a simulated world in gazebo.
 
 Chase the white ball.
 
+![Chase it](https://github.com/ricardpaschoeto/Robotic_Software_Engineer/blob/main/Project_02/Project_02.gif)
+
