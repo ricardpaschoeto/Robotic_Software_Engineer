@@ -16,6 +16,9 @@ Four projects finalized, more two to ended the course.
 - VMware 16 player 
 - Ubuntu 16.04
 - ROS Kinetic
+- Gazebo
+- teleop
+- rtbmap_ros
 - C++ 11
 
 ## Projects
@@ -32,3 +35,8 @@ Chase the white ball.
 
 ![Chase it](https://github.com/ricardpaschoeto/Robotic_Software_Engineer/blob/main/Project_02/Project_02.gif)
 
+### Project 03
+
+Where Am I?
+
+![Where Am I]()
