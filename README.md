@@ -39,4 +39,4 @@ Chase the white ball.
 
 Where Am I?
 
-![Where Am I]()
+![Where Am I](https://github.com/ricardpaschoeto/Robotic_Software_Engineer/blob/main/Project_03/Project_03.gif)
