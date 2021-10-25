@@ -1,13 +1,15 @@
 # Robotic_Software_Engineer
 
+This Nanodegree is a part of my ROS path learning going deepth in Robotics and related algorithms and improve my self.
 
 ## Motivation
 
+Robotics will be the most important technology in industry 4.0. It's a multidisciplinary and fascinating field that joins control, mechatronics, applied math, and Computation engineering. The opportunities to develop in the industry and academic environment are enthusiastic. I hope to work in this fascinating field as soon as possible.
 
 
 ## Buid Status
 
-
+Four projects finalized, more two to ended the course.
 
 ## Python version
 
@@ -17,4 +19,8 @@
 - C++ 11
 
 ## Projects
+
+### Project 01
+
+Create a simulated world in gazebo.
 
