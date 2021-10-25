@@ -24,3 +24,9 @@ Four projects finalized, more two to ended the course.
 
 Create a simulated world in gazebo.
 
+![My Office](https://github.com/ricardpaschoeto/Robotic_Software_Engineer/blob/main/Project_01/myOffice.png)
+
+### Project 02
+
+Chase the white ball.
+
