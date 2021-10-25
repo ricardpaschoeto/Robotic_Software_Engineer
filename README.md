@@ -40,3 +40,9 @@ Chase the white ball.
 Where Am I?
 
 ![Where Am I](https://github.com/ricardpaschoeto/Robotic_Software_Engineer/blob/main/Project_03/Project_03.gif)
+
+### Project 04
+
+Map my World.
+
+![Map](https://github.com/ricardpaschoeto/Robotic_Software_Engineer/blob/main/Project_04/Project_04.png)
