@@ -1,6 +1,6 @@
 # Robotic_Software_Engineer
 
-This Nanodegree is a part of my ROS path learning going deepth in Robotics and related algorithms and improve my self.
+This Nanodegree is a part of my ROS path learning going deepth in Robotics and related algorithms and improve myself.
 
 ## Motivation
 
