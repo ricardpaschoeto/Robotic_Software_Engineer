@@ -9,7 +9,7 @@ Robotics will be the most important technology in industry 4.0. It's a multidisc
 
 ## Buid Status
 
-Four projects finalized, more two to ended the course.
+Five projects finalized, work on extra project - KuKa 6 Dof.
 
 ## Python version
 
