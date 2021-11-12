@@ -4,7 +4,7 @@ This Nanodegree is a part of my ROS path learning going deepth in Robotics and r
 
 ## Motivation
 
-Robotics will be the most important technology in industry 4.0. It's a multidisciplinary and fascinating field that joins control, mechatronics, applied math, and Computation engineering. The opportunities to develop in the industry and academic environment are enthusiastic. I hope to work in this fascinating field as soon as possible.
+Robotics will be the most important technology in industry 4.0. It's a multidisciplinary and fascinating field that covers control, mechatronics, applied math, and Computation engineering. The opportunities to develop in the industry and academic environment are enthusiastic. I hope to work in this fascinating field as soon as possible.
 
 
 ## Buid Status
